@@ -22,6 +22,11 @@ Local server
 
 ## Getting Started
 
+### Development Heroku Server
+https://restaurantreviewp3.herokuapp.com/restaurants
+
+[Resource](https://dev.to/lindakatcodes/a-beginners-guide-to-hosting-an-app-with-heroku-and-netlify-8i5?returning-user=true)
+
 ### Development local API Server
 _Location of server = /server_
 Server depends on [node.js LTS Version: v6.11.2 ](https://nodejs.org/en/download/), [npm](https://www.npmjs.com/get-npm), and [sails.js](http://sailsjs.com/)
